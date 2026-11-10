@@ -1,0 +1,285 @@
+I want you to completely upgrade my existing 3D car driving and obstacle challenge game into a highly professional, premium-quality mobile game.
+
+IMPORTANT: First inspect my existing game, its source code, mechanics, graphics and structure. Do not blindly replace everything. Improve the existing game while preserving all working features. Fix existing bugs and make the entire game feel polished and professional.
+
+1. TOTAL 2000 LEVELS
+
+Create a complete progression system with exactly 2000 playable levels.
+
+- Level 1 to Level 2000.
+- Every level must be playable and completable.
+- Each new level must become progressively more difficult.
+- Never make all levels feel identical.
+- Introduce new obstacles, road designs, challenges and mechanics as players progress.
+- Use procedural level generation with deterministic seeds where appropriate.
+- Make sure difficulty increases gradually and fairly.
+- No impossible or unfair levels.
+
+2. PROGRESSIVE DIFFICULTY SYSTEM
+
+Divide the 2000 levels into 20 difficulty chapters, with 100 levels in each chapter.
+
+Chapter 1: Levels 1–100: Beginner.
+Chapter 2: Levels 101–200: Easy to Medium.
+Chapter 3: Levels 201–300: Medium.
+Chapter 4: Levels 301–400: Medium to Hard.
+Chapter 5: Levels 401–500: Hard.
+Chapter 6: Levels 501–600: Advanced.
+Chapter 7: Levels 601–700: Advanced Hard.
+Chapter 8: Levels 701–800: Expert.
+Chapter 9: Levels 801–900: Expert Hard.
+Chapter 10: Levels 901–1000: Master.
+Chapter 11–15: Levels 1001–1500: Extreme challenges.
+Chapter 16–20: Levels 1501–2000: Legendary challenges.
+
+Increase difficulty through:
+
+- More obstacles.
+- Faster moving obstacles.
+- Narrower roads.
+- More dangerous turns.
+- Moving barriers.
+- Traffic vehicles.
+- Bridges and ramps.
+- More complicated routes.
+- Less reaction time.
+- More challenging combinations of obstacles.
+
+Difficulty must increase smoothly, not suddenly.
+
+3. PROFESSIONAL 3D GRAPHICS
+
+Upgrade the entire visual experience.
+
+Add:
+
+- Beautiful realistic 3D roads.
+- High-quality cars.
+- Professional road textures.
+- Realistic shadows and lighting.
+- Beautiful sky and environment.
+- Mountains, buildings and trees.
+- High-quality water and bridges.
+- Smooth camera movements.
+- Realistic car movement and physics.
+- Professional animations.
+- Attractive particle effects.
+
+The game should look like a polished commercial mobile game, not a basic prototype.
+
+4. DIFFERENT ENVIRONMENTS
+
+Create different environments throughout the game:
+
+1. Modern city roads.
+2. Mountain roads.
+3. Desert roads.
+4. Forest roads.
+5. Snow-covered roads.
+6. Night driving.
+7. Rainy roads.
+8. Highway driving.
+9. Bridge challenges.
+10. Dangerous cliff roads.
+11. Tunnel driving.
+12. Futuristic neon roads.
+
+Unlock new environments as players progress.
+
+5. CARS AND GARAGE SYSTEM
+
+Create a professional garage.
+
+Add different types of vehicles:
+
+- Sports cars.
+- Supercars.
+- SUVs.
+- Trucks.
+- Racing cars.
+- Off-road vehicles.
+- Special unlockable cars.
+
+Each vehicle should have:
+
+- Different speed.
+- Different handling.
+- Different acceleration.
+- Different braking.
+- Different appearance.
+
+Allow players to unlock and purchase vehicles using earned coins.
+
+Add car color customization and upgrades.
+
+6. OBSTACLES AND CHALLENGES
+
+Add many different obstacles:
+
+- Moving barriers.
+- Roadblocks.
+- Rotating obstacles.
+- Falling objects.
+- Moving trucks.
+- Traffic cars.
+- Jumping ramps.
+- Narrow bridges.
+- Swinging obstacles.
+- Spinning blades.
+- Dangerous gaps.
+- Moving platforms.
+- Sudden road turns.
+- Collapsing roads.
+
+Introduce new obstacle combinations in higher levels.
+
+7. COIN AND REWARD SYSTEM
+
+Create a professional reward system.
+
+- Give coins for completing levels.
+- Give bonus coins for perfect runs.
+- Reward players for collecting coins.
+- Add daily login rewards.
+- Add daily missions.
+- Add achievement rewards.
+- Add level completion bonuses.
+- Add special rewards after every 100 levels.
+
+Make sure coins are saved correctly.
+
+8. PROFESSIONAL GAME UI
+
+Completely redesign the interface.
+
+Create:
+
+- Beautiful main menu.
+- Play button.
+- Level selection screen.
+- Garage button.
+- Settings button.
+- Daily rewards.
+- Mission section.
+- Coin counter.
+- Progress indicator.
+- Pause menu.
+- Game over screen.
+- Level completed screen.
+
+Use modern colors, beautiful icons, smooth animations, attractive buttons and professional typography.
+
+Make the interface clean and easy to use.
+
+9. LEVEL SELECTION
+
+Create a beautiful level selection screen.
+
+- Show all 2000 levels.
+- Show completed levels.
+- Show the current unlocked level.
+- Keep future levels locked until unlocked.
+- Show stars earned in each level.
+- Add chapter selection.
+- Add smooth scrolling.
+- Add a clear progress indicator.
+
+10. SOUND AND MUSIC
+
+Add professional sound effects:
+
+- Engine sounds.
+- Acceleration sounds.
+- Braking sounds.
+- Collision sounds.
+- Coin collection sounds.
+- Level completion sounds.
+- Button click sounds.
+- Background music.
+
+Allow players to turn music and sound effects on or off.
+
+11. GAMEPLAY AND CONTROLS
+
+Make controls smooth and responsive.
+
+Support mobile touch controls.
+
+Add:
+
+- Left and right movement.
+- Acceleration.
+- Braking.
+- Smooth steering.
+- Camera follow.
+- Pause and resume.
+- Restart level.
+
+Make sure controls work properly on Android phones and different screen sizes.
+
+12. SAVE PROGRESS
+
+Implement a reliable save system.
+
+Save:
+
+- Current unlocked level.
+- Completed levels.
+- Total coins.
+- Purchased vehicles.
+- Selected vehicle.
+- Vehicle upgrades.
+- Stars earned.
+- Game settings.
+
+Progress must not disappear when the player refreshes the browser or closes and reopens the game.
+
+13. PERFORMANCE AND OPTIMIZATION
+
+The game must run smoothly on Android mobile devices.
+
+- Optimize 3D models.
+- Optimize textures.
+- Avoid unnecessary memory usage.
+- Prevent lag and freezing.
+- Fix bugs and crashes.
+- Make loading times short.
+- Use efficient rendering.
+- Support different screen resolutions.
+
+14. FAIR GAMEPLAY
+
+Every level must be properly tested.
+
+- No impossible obstacles.
+- No obstacles spawning inside the player.
+- No broken collisions.
+- No getting stuck.
+- No unexpected level resets.
+- Every level must have a valid finish point.
+- Every level must be completable.
+
+15. FINAL PROFESSIONAL REQUIREMENTS
+
+Do not just create a visual demo.
+
+I need a fully functional game with real gameplay, real progression and working features.
+
+Build all 2000 levels using a well-designed level generation and difficulty system.
+
+Test the first levels, middle levels and final levels.
+
+Make sure Level 2000 is extremely challenging but still possible to complete.
+
+Do not leave buttons non-functional.
+Do not use fake features.
+Do not show rewards that are not actually earned.
+Do not reset player progress unexpectedly.
+
+Keep the game optimized for mobile browsers.
+
+IMPORTANT FINAL INSTRUCTION:
+
+First analyze my existing source code. Then upgrade it step by step. Preserve the existing working gameplay and provide the complete updated source code and all required files.
+
+The final result should look and feel like a professional commercial 3D mobile game that players would enjoy playing for a long time.
